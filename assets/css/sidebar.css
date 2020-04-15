@@ -1,0 +1,12 @@
+.sidebar .el-submenu__title:hover{
+    background-color: transparent !important;
+}
+.el-menu::before,.el-menu::after{
+    display: none !important; 
+}
+.el-submenu .el-menu-item{
+    min-width: 130px !important;
+}
+.el-submenu__title{
+    padding: 0 !important;
+}
